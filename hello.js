@@ -1,1 +1,1 @@
-console.log(*Helljo*)
+const pair = "extraordinaire";
